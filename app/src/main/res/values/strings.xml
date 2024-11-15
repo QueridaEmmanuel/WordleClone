@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WordleClone</string>
+    <string name="hint_guess">Enter 4-letter word</string>
+    <string name="submit">Submit</string>
+    <string name="reset">Reset</string>
+
+    <string name="feedback">Feedback will appear here</string>
+    <string name="feedback_initial">Feedback will appear here</string>
+    <string name="congratulations">Congratulations! You guessed the word!</string>
+    <string name="game_over">Game Over! The word was %1$s.</string> <!-- Using placeholder for target word -->
+    <string name="enter_4_letter_word">Please enter a 4-letter word</string>
+
+</resources>
